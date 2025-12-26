@@ -21,7 +21,7 @@ The dataset contains 550 days of view data for 145k+ Wikipedia pages, making thi
 
 ### Page name format:
 
-"<Title>_<Language>.wikipedia.org_<Access Type>_<Access Origin>"
+`<Title>_<Language>.wikipedia.org_<Access Type>_<Access Origin>`
 
 
 ### Extracted features:
