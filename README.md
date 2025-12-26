@@ -19,14 +19,14 @@ The dataset contains 550 days of view data for 145k+ Wikipedia pages, making thi
 
 - Exog_Campaign_eng.csv: Campaign indicator (English pages only)
 
-### Page name format:
+  ### Page name format:
 
-`<Title>_<Language>.wikipedia.org_<Access Type>_<Access Origin>`
+  `<Title>_<Language>.wikipedia.org_<Access Type>_<Access Origin>`
 
 
-### Extracted features:
+  ### Extracted features:
 
-Title, Language, Access Type, Access Origin
+  Title, Language, Access Type, Access Origin
 
 ## 🔍 Exploratory Data Analysis
 
